@@ -1,0 +1,33 @@
+colors{
+    lilas: #9B5DE5;
+    rosa: #F15BB5;
+    amarelo: #FEE440;
+    azul: #00BBF9;
+    ciano: #00F5D4;  
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.navbar{
+    background-color: #00BBF9;
+}
+
+.quemsoueu{
+    background-color: #F15BB5;
+}
+
+.conteudo{
+    background-color: #9B5DE5;
+}
+
+.contatos{
+    background-color: #FEE440;
+}
+
+.footer{
+    background-color: black;
+}

@@ -1,0 +1,5 @@
+lilas: 9B5DE5
+rosa: F15BB5
+amarelo: FEE440
+azul: 00BBF9
+ciano: 00F5D4
